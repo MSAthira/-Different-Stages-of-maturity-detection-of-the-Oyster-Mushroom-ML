@@ -1,1 +1,1 @@
-# Different-Stages-of-maturity-detection-of-the-Oyster-Mushroom-ML
+# Differenet-Stages-of-maturity-detection-of-the-Oyster-Mushroom-ML
